@@ -1,6 +1,6 @@
 ### Hello, I'm Annalisa Bauer! 👋
 
-- 🔭 I’m currently working on completing my full stack coding bootcamp
+- 🔭 I’m currently working on completing a full stack coding bootcamp.
 - 🌱 I’m currently learning JavaScript & API interaction.
 - 📫 How to reach me: annalisa.bauer1@gmail.com
 - 😄 Pronouns: she/her
