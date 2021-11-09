@@ -1,6 +1,7 @@
 ### Hello, I'm Annalisa Bauer! 👋
 
-- 🔭 I’m currently working on completing a full stack coding bootcamp.
+- 🔭 I am Front End Web Developer located in Gilbert, AZ.
+- I am working on honing my skills with React.js and Javascript. I am currently working on learning C#.
 - 📫 How to reach me: annalisa.bauer1@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalisambauer)](https://github.com/annalisambauer/github-readme-stats)
